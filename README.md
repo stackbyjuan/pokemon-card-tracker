@@ -1,2 +1,2 @@
 # pokemon-card-tracker
-My first Pyhton project for tracking pokemon cards.
+My first Python project for tracking pokemon cards.
